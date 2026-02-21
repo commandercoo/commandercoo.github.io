@@ -30,32 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "post-a-post-with-tabs",
-        
-          title: "a post with tabs",
-        
-        description: "this is what included tabs in a post could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/tabs/";
-          
-        },
-      },{id: "post-a-distill-style-blog-post",
-        
-          title: "a distill-style blog post",
-        
-        description: "an example of a distill-style blog post and main elements",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/distill/";
-          
-        },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+        },{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
