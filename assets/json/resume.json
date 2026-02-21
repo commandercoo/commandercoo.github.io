@@ -1,221 +1,177 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "William Zhou",
+    "label": "Student",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "wzhou24@ncsu.edu",
+    "summary": "Electrical and Computer engineering student broadly interested in autonomous systems and perception",
     "profiles": []
   },
-  "work": [
+   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Biomechatronics Lab, North Carolina State University",
+      "position": "Research Intern",
+      "location": "Raleigh, North Carolina",
+      "startDate": "2023",
+      "endDate": "2024",
+      "highlights": [
+        "Designed and fabricated hardware in Fusion 360 for a novel prosthetic hand with tactile feedback and robotic arm transport system.",
+        "Developed user‑control interfaces in C++ using Arduino ESP32 microcontrollers and PlatformIO, enabling intuitive manipulation of the robotic arm.",
+        "Authored an abstract and poster on prosthetic robotic arm technology that was accepted for presentation at the IEEE International Conference on Advanced Intelligent Mechatronics (AIM) 2024."
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Triangle Aerial Drone Association",
+      "position": "Founder & Board Member",
+      "location": "Chapel Hill, North Carolina",
+      "startDate": "2022",
+      "endDate": "present",
+      "highlights": [
+        "Dedicated to promoting drone technology in the North Carolina Research Triangle region.",
+        "Mentored and taught two drone robotics teams that achieved top‑3 national placements at the National REC Aerial Drone Competition.",
+        "Developed a comprehensive technical resource guide analyzing competition drone source code, reverse‑engineering autonomy stacks, and implementing optimal navigation methods."
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "College of Engineering, North Carolina State University",
+      "position": "Engineering Communication Intern",
+      "location": "Raleigh, North Carolina",
+      "startDate": "2025-09-01",
+      "endDate": "Present",
+      "highlights": [
+        "Brainstormed, filmed, and edited videos for the College of Engineering’s social‑media channels.",
+        "Collaborated with faculty, students, and other departments to produce promotional content showcasing engineering programs and research initiatives.",
+        "Utilized Adobe Premiere Pro to deliver high‑quality video content on tight turnaround schedules."
+      ]
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Acoustofludic Lab, Duke University",
+      "position": "Research Intern",
+      "location": "Durham, North Carolina",
+      "startDate": "2023",
+      "endDate": "2023",
+      "highlights": [
+        "Advanced an innovative acoustic‑radiation‑force based technique for precise drug delivery into microfluidic droplets.",
+        "Optimized fluid circuit design using AutoCAD to determine the ideal convergence angle, enhancing droplet‑formation efficiency for acoustofluidic beam applications.",
+        "Designed and refined figures for poster presentations, documented iteration changes, and contributed to testing microfluidic devices with oscilloscopes and high‑speed microscopy."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "North Carolina State University",
+      "location": "Raleigh, North Carolina",
+      "url": "https://www.ncsu.edu/",
+      "area": "Electrical and Computer Engineering",
+      "startDate": "2025",
+      "endDate": "2029",
+      "studyType": "Bachelor of Science",
+      "score": "3.97/4.00",
+      "courses": ["Statistical Inference, Computser System Programming, Electric Circuits"]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "institution": "North Carolina State University",
+      "location": "Raleigh, North Carolina",
+      "area": "Mathematics and Computer Science",
+      "studyType": "Dual Enrollment",
+      "startDate": "2023",
+      "endDate": "2025",
       "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "courses": ["Multivariable Calculus, Differential Equations, Linear Algebra, Discrete Mathematics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Presidential Volunter Service Award Gold",
+      "date": "2024, 2025",
+      "awarder": "POTUS"
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
+      "title": "National Merit Commended",
+      "date": "2024",
+      "awarder": "National Merit Scholarship Corporation",
       "summary": ""
     }
   ],
-  "certificates": [
+  "certifications": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "name": "FAA Part 107",
+      "date": "2023",
+      "issuer": "Federal Aviation Administration",
+      "icon": "fa-solid fa-paper-plane"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "name": "EASA A1‑A3",
+      "date": "2023",
+      "issuer": "European Union Aviation Safety Agency",
+      "icon": "fa-solid fa-united-nations"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Basic Operations",
+      "date": "2024",
+      "issuer": "Transport Canada Civil Aviation Authority",
+      "icon": "fa-solid fa-map"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C/C++",
+        "Git",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Platform & Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-tools",
+      "keywords": [
+        "Betaflight",
+        "Ardupilot",
+        "KiCAD",
+        "Fusion 360",
+        "Orcaslicer",
+        "Excel",
+        "Photoshop",
+        "Premiere Pro",
+        "Asana Enterprise"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Master",
+      "icon": "fa-solid fa-microscope",
+      "keywords": [
+        "Oscilloscope",
+        "Function Generator",
+        "3D‑Printing",
+        "Soldering"
       ]
     }
-  ],
+  ]
+
+  
+  ,
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "fluency": "Native speaker",
+      "icon": "fa-solid fa-globe"
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "language": "Chinese",
+      "fluency": "Fluent",
+      "icon": "fa-solid fa-language"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Please visit the Projects Page",
+      "url": "/projects/"
     }
   ]
 }
