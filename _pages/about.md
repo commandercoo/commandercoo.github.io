@@ -29,5 +29,3 @@ latest_posts:
 Hello! I am William,an electrical and computer engineering undergrad at [North Carolina State University](https://ece.ncsu.edu){:target="_blank"} broadly interested in autonomous systems and perception. 
 
 I'm an avid drone pilot, with commercial certifications in the United States and European Union and recreational certification in Canada. 
-
-Feel free to reach out to me at wzhou24[at]ncsu[dot]edu!
