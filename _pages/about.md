@@ -30,4 +30,4 @@ Hello! I am William,an electrical and computer engineering undergrad at [North C
 
 I'm an avid drone pilot, with commercial certifications in the United States and European Union and recreational certification in Canada. 
 
-I have a portfolio of my drone videos/photos [here](williamzhou.org). I'm currently in the process of combining the two websites together. 
+I have a portfolio of my drone videos/photos [here](https://williamzhou.org). I'm currently in the process of combining the two websites together. 
